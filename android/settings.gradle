@@ -1,0 +1,3 @@
+rootProject.name = 'imgy_mobile'
+
+include ':app'
